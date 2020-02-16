@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DevicesInKotlin</string>
+    <string name="button_text">Show devices</string>
+    <string-array name="device_category">
+        <item>TV</item>
+        <item>Wear</item>
+        <item>Phone</item>
+        <item>Tablet</item>
+    </string-array>
+</resources>
